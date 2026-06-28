@@ -1,0 +1,229 @@
+[
+  {
+    "text": "TFEC RNA is found in many tissues of adult rats , but the relative concentrations of TFEC and TFE3 RNAs vary considerably in these different tissues .",
+    "entities": [
+      {
+        "text": "TFEC RNA",
+        "type": "GENE"
+      },
+      {
+        "text": "TFEC",
+        "type": "GENE"
+      },
+      {
+        "text": "TFE3 RNAs",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Our results show that unlike the case for sos1 , sos2 gene function is dispensable for normal mouse development , growth , and fertility .",
+    "entities": [
+      {
+        "text": "sos1",
+        "type": "GENE"
+      },
+      {
+        "text": "sos2 gene",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Studies of HS2 - gamma gene reporter constructs carrying CACCC box deletions revealed that the CACCC box sequence of the gamma gene promoter mediates the activation of the gamma gene by FKLF .",
+    "entities": [
+      {
+        "text": "HS2 - gamma gene reporter constructs",
+        "type": "GENE"
+      },
+      {
+        "text": "FKLF",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "First , a GATA - 1 motif was found to bind nuclear factor ( s ) , presumably the GATA - 1 factor , present in K - 562 cell extracts and in living K - 562 cells .",
+    "entities": [
+      {
+        "text": "GATA - 1 motif",
+        "type": "GENE"
+      },
+      {
+        "text": "GATA - 1 factor",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "This inhibition was due to competition from the EMC virus IRES present in pEP - 2A transcripts , as well as the expression of proteolytically active 2Apro .",
+    "entities": [
+      {
+        "text": "pEP - 2A transcripts",
+        "type": "GENE"
+      },
+      {
+        "text": "2Apro",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Some may affect the folding pathway or the affinity for chaperonins .",
+    "entities": [
+      {
+        "text": "chaperonins",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "The effect on FIV LTR promoter activity of progressively deleting these nuclear factor binding sites was examined by linking LTR deletion mutants to the chloramphenicol acetyltransferase ( CAT ) gene .",
+    "entities": [
+      {
+        "text": "FIV LTR promoter",
+        "type": "GENE"
+      },
+      {
+        "text": "chloramphenicol acetyltransferase",
+        "type": "GENE"
+      },
+      {
+        "text": "CAT",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "A series of sequence fragments were placed 5 ' to the chloramphenicol acetyltransferase ( CAT ) reporter gene and ability to mediate transcription of CAT in response to IFN gamma or LPS treatment was studied following transient transfection in the macrophage - like cell line RAW 264 . 7 .",
+    "entities": [
+      {
+        "text": "chloramphenicol acetyltransferase",
+        "type": "GENE"
+      },
+      {
+        "text": "CAT",
+        "type": "GENE"
+      },
+      {
+        "text": "CAT",
+        "type": "GENE"
+      },
+      {
+        "text": "IFN gamma",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Module 2 of RifA lacks a beta - ketoacyl : acyl carrier protein reductase ( KR ) domain and the one in module 3 has an apparently inactive NADPH binding motif , similar to one found in the Er PKS , while the other eight KR domains of the Rf PKS should be functional .",
+    "entities": [
+      {
+        "text": "RifA",
+        "type": "GENE"
+      },
+      {
+        "text": "beta - ketoacyl : acyl carrier protein reductase",
+        "type": "GENE"
+      },
+      {
+        "text": "KR",
+        "type": "GENE"
+      },
+      {
+        "text": "NADPH binding motif",
+        "type": "GENE"
+      },
+      {
+        "text": "Er PKS",
+        "type": "GENE"
+      },
+      {
+        "text": "KR domains",
+        "type": "GENE"
+      },
+      {
+        "text": "Rf PKS",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "In murine cells , FPGS expression is controlled by two promoters that , as we show here , vary substantially in their efficiency , at least in the context of a reporter gene assay .",
+    "entities": [
+      {
+        "text": "FPGS",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Should we use thiazide diuretics in hypertensive patients with non - insulin - dependent diabetes mellitus ?",
+    "entities": [
+      {
+        "text": "insulin",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "The GST - CBL - LZIP fusion protein contains a binding site for the SH2 domain of the p85 subunit of phosphatidylinositol 3 - kinase , which mapped to Tyr731 , which is present in the sequence YEAM .",
+    "entities": [
+      {
+        "text": "GST",
+        "type": "GENE"
+      },
+      {
+        "text": "CBL",
+        "type": "GENE"
+      },
+      {
+        "text": "LZIP",
+        "type": "GENE"
+      },
+      {
+        "text": "SH2 domain",
+        "type": "GENE"
+      },
+      {
+        "text": "p85 subunit",
+        "type": "GENE"
+      },
+      {
+        "text": "phosphatidylinositol 3 - kinase",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "We have previously shown that UNC - 4 expression in the VA motor neurons specifies the wild - type pattern of presynaptic input .",
+    "entities": [
+      {
+        "text": "UNC - 4",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "Significant differences were observed in the composition of nuclear transcription factors bound to cis - elements within the LDH / C proximal promoter region in somatic versus germ cells .",
+    "entities": [
+      {
+        "text": "LDH / C proximal promoter region",
+        "type": "GENE"
+      }
+    ]
+  },
+  {
+    "text": "It has become clear that there is not one mediator responsible for ALI , but rather a complex interplay exists between diverse proinflammatory ( e . g . , lipopolysaccharide , complement products , cytocains , chemocains , reactive oxygen species and arachidonic acid products ) and anti - inflammatory ( IL - 10 , IL - 1 - RA , PGI2 ) mediators .",
+    "entities": [
+      {
+        "text": "IL - 10",
+        "type": "GENE"
+      },
+      {
+        "text": "IL - 1 - RA",
+        "type": "GENE"
+      }
+    ]
+  }
+]
