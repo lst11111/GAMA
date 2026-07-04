@@ -20,9 +20,9 @@ class BioNERDualLoopPipeline:
     def __init__(
         self,
         api_key: str,
-        planning_model: str = "qwen3.7-max-2026-06-08",
-        guideline_model: str = "qwen3.7-max-2026-06-08",
-        base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1",
+        planning_model: str = "",
+        guideline_model: str = "",
+        base_url: str = "",
         max_retries: int = 3,
         verbose: bool = True,
     ):
@@ -610,17 +610,17 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--api-key", default=os.getenv("BIO_NER_API_KEY"), help="API key. Defaults to BIO_NER_API_KEY.")
     parser.add_argument(
         "--base-url",
-        default=os.getenv("BIO_NER_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1"),
+        default=os.getenv("BIO_NER_BASE_URL", ""),
         help="OpenAI-compatible chat completions base URL.",
     )
     parser.add_argument(
         "--planning-model",
-        default=os.getenv("BIO_NER_PLANNING_MODEL", "qwen3.7-max-2026-06-08"),
+        default=os.getenv("BIO_NER_PLANNING_MODEL", ""),
         help="Planning model name.",
     )
     parser.add_argument(
         "--guideline-model",
-        default=os.getenv("BIO_NER_GUIDELINE_MODEL", "qwen3.7-max-2026-06-08"),
+        default=os.getenv("BIO_NER_GUIDELINE_MODEL", ""),
         help="Guideline summarizer model name.",
     )
     parser.add_argument("--max-retries", type=int, default=3)
