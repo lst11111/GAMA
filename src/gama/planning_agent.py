@@ -12,7 +12,7 @@ class BioNERPlanningAgent:
     Uses retrieved exemplars (Dex) as in-context guidance.
     """
 
-    def __init__(self, api_key, model="qwen3.5-122b-a10b", base_url=None, max_retries=3, verbose=True):
+    def __init__(self, api_key, model="", base_url=None, max_retries=3, verbose=True):
         """
         api_key: str, API密钥
         model: str, 模型名称
